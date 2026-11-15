@@ -31,11 +31,9 @@ jobs:
               with urllib.request.urlopen(req) as resp:
                   return json.loads(resp.read().decode())
 
-          # Получаем ID пользователя
           user = get_json("https://gitlab.com/api/v4/user")
           uid = user["id"]
 
-          # Собираем события push за последний год (постранично)
           dates = set()
           total_commits = 0
           page = 1
@@ -49,7 +47,6 @@ jobs:
                   total_commits += e.get("push_data", {}).get("commit_count", 1)
               page += 1
 
-          # Считаем longest streak и current streak
           sorted_days = sorted(datetime.strptime(d, "%Y-%m-%d").date() for d in dates)
           longest = 0
           cur = 0
