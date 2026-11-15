@@ -13,7 +13,7 @@
 | **Languages** | PHP, Go, C, C++ |
 | **Frameworks & Core** | Laravel, Vue.js, Redis, Laravel Horizon |
 | **Infrastructure** | Docker, Linux (Ubuntu Server), DigitalOcean, GCP |
-| **Hardware & IoT** | LiFePO4 power systems, STM32, ESP32 |
+| **Hardware & IoT** | STM32, ESP32 |
 
 ---
 
@@ -25,7 +25,7 @@
 * **Automated Data & Supplier Pipelines** — Scalable parsers and import engines (XML, CSV, Google Sheets, REST APIs) with dynamic pricing rules and automated catalog synchronization.
 * **AI-Driven Content & Mapping** — Integration of LLM APIs (Google AI, Openrouter, Requesty and other APIs) for automated product attribute mapping and bulk SEO copywriting.
 * **Go Microservices & Bots** — Concurrent backend services, webhook integrations, and API-driven bots written in Go.
-
+* **Embedded Systems & Firmware** — Low-level C/C++ development for microcontrollers (STM32, ESP32), real-time task management using FreeRTOS, hardware peripherals (UART, I2C, SPI, CAN, USB, ADC, Timers, DMA, Interrupts), and memory pool management.
 ---
 
 ### 📊 GitHub Stats
