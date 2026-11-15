@@ -29,8 +29,6 @@
 * **Embedded Systems & Firmware** — Low-level C/C++ development for microcontrollers (STM32, ESP32), real-time task management using FreeRTOS, hardware peripherals (UART, I2C, SPI, CAN, USB, ADC, Timers, DMA, Interrupts), and memory pool management.
 ---
 
-### 📊 GitHub Stats
-
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rodgare&theme=tokyonight&hide_border=true" />
 </p>
