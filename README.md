@@ -1,16 +1,35 @@
-## Hi there 👋
+### Hi there 👋 I'm Alex, a Backend & Systems Software Engineer
 
-<!--
-**Rodgare/Rodgare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 🔭 **Primary Stack:** PHP (Laravel), Go.
+* ⚡ **Systems & Low-Level:** C, C++, Microcontrollers (STM32, ESP32).
+* 🛠️ **Current Focus:** Building high-load e-commerce backends, automated data pipelines, and bots.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack & Tools
+
+| Category | Technologies / Tools |
+| :--- | :--- |
+| **Languages** | PHP, Go, C, C++ |
+| **Frameworks & Core** | Laravel, Vue.js, Redis, Laravel Horizon |
+| **Infrastructure** | Docker, Linux (Ubuntu Server), DigitalOcean, GCP |
+| **Hardware & IoT** | LiFePO4 power systems, STM32, ESP32 |
+
+---
+
+### 💼 Commercial Experience & Key Solutions
+
+*Most of my production work resides in private commercial repositories under NDA. Key architectures and systems I've built include:*
+
+* **High-Load E-commerce Platforms** — End-to-end backend development on Laravel, custom admin panels (Encore-Admin, Filament), queue management via Redis/Horizon, and database optimization.
+* **Automated Data & Supplier Pipelines** — Scalable parsers and import engines (XML, CSV, Google Sheets, REST APIs) with dynamic pricing rules and automated catalog synchronization.
+* **AI-Driven Content & Mapping** — Integration of LLM APIs (Google AI, Openrouter, Requesty and other APIs) for automated product attribute mapping and bulk SEO copywriting.
+* **Go Microservices & Bots** — Concurrent backend services, webhook integrations, and API-driven bots written in Go.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rodgare&theme=tokyonight&hide_border=true" />
+</p>
