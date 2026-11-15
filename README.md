@@ -11,7 +11,7 @@
 | Category | Technologies / Tools |
 | :--- | :--- |
 | **Languages** | PHP, Go, C, C++ |
-| **Frameworks & Core** | Laravel, Vue.js, Redis, Laravel Horizon |
+| **Frameworks & Core** | Laravel, Vue.js, Redis |
 | **Infrastructure** | Docker, Linux (Ubuntu Server), DigitalOcean, GCP |
 | **Hardware & IoT** | STM32, ESP32 |
 
