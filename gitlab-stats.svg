@@ -2,13 +2,13 @@
   <rect x="0.5" y="0.5" width="494" height="194" rx="4.5" fill="#1a1b27" stroke="#1a1b27"/>
   <text x="25" y="35" fill="#70a5fd" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="18" font-weight="700">GitLab Contributions (axel19911)</text>
   
-  <text x="85" y="95" text-anchor="middle" fill="#70a5fd" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="28" font-weight="700">574</text>
+  <text x="85" y="95" text-anchor="middle" fill="#70a5fd" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="28" font-weight="700">576</text>
   <text x="85" y="122" text-anchor="middle" fill="#a9b1d6" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="13">Total Commits</text>
   <text x="85" y="142" text-anchor="middle" fill="#38bdae" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="11">Private + Public</text>
 
   <line x1="165" y1="60" x2="165" y2="155" stroke="#414868" stroke-width="1"/>
 
-  <text x="247" y="95" text-anchor="middle" fill="#bf91f3" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="28" font-weight="700">2</text>
+  <text x="247" y="95" text-anchor="middle" fill="#bf91f3" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="28" font-weight="700">1</text>
   <text x="247" y="122" text-anchor="middle" fill="#bf91f3" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="13" font-weight="700">Current Streak</text>
   <text x="247" y="142" text-anchor="middle" fill="#38bdae" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="11">Days</text>
 
